@@ -9,3 +9,6 @@
 τα assets μπορούν να βρεθούν στον φάκελο mega.nz ή και στο GitHub:
 https://mega.nz/folder/jIADgIjR#aN4QRV7lxcIf6tJGxolWPA
 https://github.com/Felikious/BattleOfLakePoyang/tree/2e304c32763d20e923774a9c4c18ab0a9fd61400
+
+assets must be included inside bin folder
+
